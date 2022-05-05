@@ -1,4 +1,4 @@
-# Automated_Birthday_Wisher
+# Instructions
 
 # To run and test the code you need to update 4 places.
 # 1. Change MY_EMAIL/MY_PASSWORD to your own details.
